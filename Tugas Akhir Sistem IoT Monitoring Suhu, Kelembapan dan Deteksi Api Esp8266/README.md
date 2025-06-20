@@ -73,9 +73,14 @@ LCD akan menampilkan:
 - Identitas kelompok dan institusi saat startup.
 
 
+6. Dokumentasi
+   ![WhatsApp Image 2025-06-20 at 13 13 51_e9f88b4c](https://github.com/user-attachments/assets/cc4fa1b5-17f8-4b0d-9826-9d711adbecbe)
+   
 Anggota Kelompok 4
 - Irvan Nurmutakim
 - M. Lukmanul Khakim
 - Wildan Nur Yusufi
 
 📍 Program Studi Teknologi Informasi – Fakultas Sains dan Teknologi – UIN Walisongo Semarang
+
+
