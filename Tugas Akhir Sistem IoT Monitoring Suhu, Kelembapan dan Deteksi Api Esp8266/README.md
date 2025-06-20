@@ -77,4 +77,5 @@ Anggota Kelompok 4
 - Irvan Nurmutakim
 - M. Lukmanul Khakim
 - Wildan Nur Yusufi
+
 📍 Program Studi Teknologi Informasi – Fakultas Sains dan Teknologi – UIN Walisongo Semarang
