@@ -4,6 +4,9 @@ SISTEM IOT UNTUK MONITORING SUHU, KELEMBAPAN, DAN DETEKSI API MENGGUNAKAN ESP826
 
 📡 Proyek ini merupakan sistem Internet of Things (IoT) untuk **memantau suhu, kelembapan**, serta **mendeteksi asap/gas yang berpotensi menyebabkan kebakaran**, dan mengirimkan **notifikasi real-time melalui Telegram**. Sistem ini dibangun menggunakan **ESP8266**, sensor **DHT11**, **sensor gas MQ**, dan **Relay** sebagai aktuator.
 
+## Video Demo Alat:
+https://youtu.be/-H3feliN37M
+
 ## 📌 Fitur Utama
 
 - Monitoring suhu dan kelembapan menggunakan sensor DHT11.
